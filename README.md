@@ -1,2 +1,2 @@
-# PA-1f-grupo-b
+# Programação e algoritimos
 este repositório são para as aulas de programação e  algoritmos 
